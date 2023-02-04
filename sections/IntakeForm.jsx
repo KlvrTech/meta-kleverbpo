@@ -71,11 +71,11 @@ const IntakeForm = () => {
               type="text"
               required
             >
-              <option value="Leve1">Below $10,000</option>
-              <option value="Leve2">$10,000 - $20,000</option>
-              <option value="Leve3">$20,000 - $40,000</option>
-              <option value="Leve4">$40,000 - $80,000</option>
-              <option value="Leve5">Above $80,000</option>
+              <option value="Below $10,000">Below $10,000</option>
+              <option value="$10,000 - $20,000">$10,000 - $20,000</option>
+              <option value="$20,000 - $40,000">$20,000 - $40,000</option>
+              <option value="$40,000 - $80,000">$40,000 - $80,000</option>
+              <option value="Above $80,000">Above $80,000</option>
             </select>
           </div>
           {/* Project Description */}
@@ -130,8 +130,8 @@ const IntakeForm = () => {
                   <input
                     className="formbold-input-radio"
                     type="radio"
-                    name="ans"
-                    id="ans"
+                    name="Hosting"
+                    id="Hosting"
                   />
                   Yes
                   <span className="formbold-radio-checkmark"></span>
@@ -143,8 +143,8 @@ const IntakeForm = () => {
                   <input
                     className="formbold-input-radio"
                     type="radio"
-                    name="ans"
-                    id="ans"
+                    name="Hosting"
+                    id="Hosting"
                   />
                   No
                   <span className="formbold-radio-checkmark"></span>
@@ -159,10 +159,10 @@ const IntakeForm = () => {
             </label>
 
             <select className="formbold-form-select" name="SEO" id="SEO">
-              <option value="Leve1">Not Important</option>
-              <option value="Leve2">Somewhat Important</option>
-              <option value="Leve3">Important</option>
-              <option value="Leve4">Very Important</option>
+              <option value="Not Important">Not Important</option>
+              <option value="Somewhat Important">Somewhat Important</option>
+              <option value="Important">Important</option>
+              <option value="Very Important">Very Important</option>
             </select>
           </div>
           {/* Target Audience */}
