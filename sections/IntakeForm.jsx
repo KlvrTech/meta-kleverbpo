@@ -172,7 +172,7 @@ const IntakeForm = () => {
             </label>
             <textarea
               rows="6"
-              name="message"
+              name="Who is your target audience?"
               id="message"
               placeholder="Type here..."
               className="formbold-form-input"
@@ -185,7 +185,7 @@ const IntakeForm = () => {
             </label>
             <textarea
               rows="6"
-              name="message"
+              name="Do you have a color scheme?"
               id="message"
               placeholder="Type here..."
               className="formbold-form-input"
@@ -198,7 +198,7 @@ const IntakeForm = () => {
             </label>
             <textarea
               rows="6"
-              name="message"
+              name="Additional comments"
               id="message"
               placeholder="Type here..."
               className="formbold-form-input"
