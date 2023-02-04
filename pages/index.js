@@ -10,9 +10,11 @@ import {
   WhatsNew,
   Contact,
 } from "../sections";
+import Head from "./head";
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
+    <Head />
     <Navbar />
     <Hero />
     <Explore />
