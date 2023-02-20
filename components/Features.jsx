@@ -52,7 +52,7 @@ const Features = () => {
             </div>
             <div>
               <h6 className="mb-3 text-xl font-bold text-white leading-5">
-                Efective Time managment
+                Efective Time management
               </h6>
               <p className="text-sm text-white">
                 Effective time management involves prioritizing tasks, setting

@@ -325,16 +325,11 @@ const Cards = () => {
               </p>
 
               <p className="mt-3 font-medium content f-f-DM">
-                Web development is the process of building, creating, and
-                maintaining websites. It involves a combination of skills
-                including web design, web programming, and database management.
-                Web developers use various programming languages and tools to
-                create websites that can be viewed on the internet or intranet.
-                They may work on the front-end, which is the visible part of a
-                website, or the back-end, which is the underlying code that
-                makes the website function. Web development is an essential part
-                of the modern digital landscape and is constantly evolving with
-                new technologies and trends.
+                Web development is the process of building, designing, and
+                maintaining websites. It involves various technologies,
+                programming languages, and tools that enable the creation of
+                interactive and responsive websites that are accessible across
+                different devices and browsers.
               </p>
             </div>
 
@@ -385,18 +380,15 @@ const Cards = () => {
               </p>
 
               <p className="mt-3 font-medium content f-f-DM">
-                Application development is the process of creating software
-                programs and applications that run on various platforms such as
-                computers, smartphones, tablets, and other devices. Applications
-                can be standalone programs or web-based, and they can be
-                designed for various purposes such as business, entertainment,
-                education, and more. Application developers use a variety of
-                programming languages and frameworks to design, build, and test
-                the application. They also work with different operating systems
-                like Windows, Mac, Linux and mobile platforms like iOS and
-                Android. The application development process typically involves
-                requirement gathering, design, development, testing, and
-                maintenance.
+                Applications can be standalone programs or web-based, and they
+                can be designed for various purposes such as business,
+                entertainment, education, and more. Application developers use a
+                variety of programming languages and frameworks to design,
+                build, and test the application. They also work with different
+                operating systems like Windows, Mac, Linux and mobile platforms
+                like iOS and Android. The application development process
+                typically involves requirement gathering, design, development,
+                testing, and maintenance.
               </p>
             </div>
             <svg
