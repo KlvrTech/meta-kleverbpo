@@ -58,6 +58,19 @@ const IntakeForm = () => {
               required
             />
           </div>
+          {/* Full Company Question */}
+          <div className="formbold-input-group">
+            <label for="name" className="formbold-form-label">
+              Company Name
+            </label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Enter your company name"
+              className="formbold-form-input"
+            />
+          </div>
           {/* Budget Question */}
           <div className="formbold-input-group">
             <label className="formbold-form-label">
@@ -71,11 +84,11 @@ const IntakeForm = () => {
               type="text"
               required
             >
-              <option value="Below $10,000">Below $10,000</option>
+              <option value="Below $5,000">Below $5,000</option>
               <option value="$10,000 - $20,000">$10,000 - $20,000</option>
               <option value="$20,000 - $40,000">$20,000 - $40,000</option>
               <option value="$40,000 - $80,000">$40,000 - $80,000</option>
-              <option value="Above $80,000">Above $80,000</option>
+              <option value="Enterprise">Enterprise</option>
             </select>
           </div>
           {/* Project Description */}

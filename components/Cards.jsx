@@ -205,7 +205,7 @@ const Cards = () => {
               <p className="">04</p>
 
               <h2 className="text-[28px] font-bold f-f-DM cursor-pointer">
-                Seo Optimization
+                SEO Optimization
               </h2>
 
               <p className="mt-3 font-medium content f-f-DM">
