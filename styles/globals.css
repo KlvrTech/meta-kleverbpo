@@ -11,12 +11,6 @@
   scroll-behavior: smooth;
 }
 
-.chat-widget {
-  --chat-widget-primary-color: #a509ff;
-  --chat-widget-active-color: #a509ff;
-  --chat-widget-bubble-color: #a509ff;
-}
-
 .gradient-01 {
   background-image: linear-gradient(
     270deg,
