@@ -2,6 +2,7 @@
 
 import Head from "next/head";
 import { Footer, Navbar } from "../components";
+import LiveChat from "../components/LiveChat";
 
 import {
   About,
@@ -31,6 +32,7 @@ const Page = () => (
     <GetStarted />
     <WhatsNew />
     <Contact />
+    <LiveChat />
     <Footer />
   </div>
 );
